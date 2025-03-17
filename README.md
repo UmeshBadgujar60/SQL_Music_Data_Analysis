@@ -8,3 +8,5 @@ Once the data cleaning process is complete, I load the refined dataset into Powe
 
 Within Power BI, I begin by reviewing the dataset in the Table View to ensure accuracy. 
 Subsequently, I switch to the Report View to develop various visualizations for data analysis and reporting.
+
+![image.alt](https://github.com/UmeshBadgujar60/SQL_Music_Data_Analysis/blob/0ef4b9ec6e77c78a2f7feaeb62999050432d360a/MusicDatabaseSchema.png)
